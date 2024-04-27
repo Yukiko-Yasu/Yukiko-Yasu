@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, going to learn React**
 
-- 👀 I’m interested in **Fantasy, video games, reading**
+- 👀 I’m interested in **Fantasy 🔮, video games 🎮, reading 📚**
 
 - ⚡ Fun fact **I love beating games to platinum**
 
